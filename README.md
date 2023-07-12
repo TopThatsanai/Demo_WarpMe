@@ -1,2 +1,2 @@
 # Demo_WarpMe
-Repository for demo VR project 
+Demo VR project 
